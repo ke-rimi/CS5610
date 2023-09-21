@@ -1,3 +1,3 @@
 Here is the webpage video:
 
-[Link to Video](video.mov)
+[[Click here to view the video](video.mov)]
