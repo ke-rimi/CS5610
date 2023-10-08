@@ -349,19 +349,19 @@ main p {
     
     height: 400px;
     width: 400px;
-    background-image: url('../CS5610_Personal_WebSite/chess.png');
+    background-image: url('../chess.png');
 }
 
 .projects-grid .project2 {
     height: 400px;
     width: 400px;
-    background-image: url('../CS5610_Personal_WebSite/weather.png');
+    background-image: url('../weather.png');
 }
 
 .projects-grid .project3 {
     height: 400px;
     width: 400px;
-    background-image: url('../CS5610_Personal_WebSite/pet.png');
+    background-image: url('../pet.png');
 }
 
 .projects-text{
