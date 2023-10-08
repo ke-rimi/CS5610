@@ -349,19 +349,19 @@ main p {
     
     height: 400px;
     width: 400px;
-    background-image: url('../chess.png');
+    background-image: url('https://github.com/ke-rimi/CS5610/blob/main/chess.png');
 }
 
 .projects-grid .project2 {
     height: 400px;
     width: 400px;
-    background-image: url('../weather.png');
+    background-image: url('https://github.com/ke-rimi/CS5610/blob/main/weather.png');
 }
 
 .projects-grid .project3 {
     height: 400px;
     width: 400px;
-    background-image: url('../pet.png');
+    background-image: url('https://github.com/ke-rimi/CS5610/blob/main/pet.png');
 }
 
 .projects-text{
